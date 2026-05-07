@@ -1,0 +1,18 @@
+# Industrial Chip Inspector - Requirements
+# Python 3.8+ required
+
+# GUI Framework
+PySide6>=6.5.0
+
+# Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Data Export (Optional - for Excel export)
+openpyxl>=3.1.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# pytest-qt>=4.2.0
+# black>=23.0.0
+# mypy>=1.5.0

@@ -1,0 +1,1 @@
+{"h_min": 100, "h_max": 130, "s_min": 90, "stain_v_thresh": 100, "max_total_area": 150, "safe_margin": 15, "s_max": 255, "v_min": 50, "v_max": 255, "min_blob": 5}

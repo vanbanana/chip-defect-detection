@@ -1,0 +1,17 @@
+{
+    "name": "默认配置",
+    "algorithm": "hsv_detector",
+    "description": "默认芯片缺陷检测配置",
+    "parameters": {
+        "h_min": 100,
+        "h_max": 130,
+        "s_min": 90,
+        "v_min": 50,
+        "v_max": 255,
+        "s_max": 255,
+        "safe_margin": 15,
+        "stain_v_thresh": 100,
+        "min_blob": 5,
+        "max_total_area": 150
+    }
+}

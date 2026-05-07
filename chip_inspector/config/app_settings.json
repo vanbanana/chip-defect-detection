@@ -1,0 +1,17 @@
+{
+    "window_width": 2048,
+    "window_height": 1081,
+    "window_maximized": true,
+    "window_position": null,
+    "recent_folders": [],
+    "max_recent_folders": 10,
+    "current_recipe": "默认配置",
+    "current_algorithm": "hsv_detector",
+    "status_font_size": 60,
+    "show_preview_images": true,
+    "auto_fit_images": true,
+    "default_export_format": "csv",
+    "export_include_images": false,
+    "log_level": "INFO",
+    "log_to_database": true
+}

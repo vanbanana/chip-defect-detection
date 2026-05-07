@@ -1,0 +1,9 @@
+{
+    "h_min": 68,
+    "h_max": 130,
+    "s_min": 86,
+    "v_thresh": 87,
+    "area_max": 2000,
+    "margin": 10,
+    "min_blob": 50
+}

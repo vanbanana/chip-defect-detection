@@ -1,0 +1,17 @@
+{
+    "name": "背面",
+    "algorithm": "hsv_detector",
+    "description": "芯片背面检测配置",
+    "parameters": {
+        "h_min": 68,
+        "h_max": 130,
+        "s_min": 86,
+        "v_min": 50,
+        "v_max": 255,
+        "s_max": 255,
+        "safe_margin": 10,
+        "stain_v_thresh": 87,
+        "min_blob": 50,
+        "max_total_area": 2000
+    }
+}

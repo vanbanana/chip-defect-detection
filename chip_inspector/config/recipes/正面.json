@@ -1,0 +1,17 @@
+{
+    "name": "正面",
+    "algorithm": "hsv_detector",
+    "description": "芯片正面检测配置",
+    "parameters": {
+        "h_min": 105,
+        "h_max": 166,
+        "s_min": 126,
+        "v_min": 50,
+        "v_max": 255,
+        "s_max": 255,
+        "safe_margin": 29,
+        "stain_v_thresh": 173,
+        "min_blob": 50,
+        "max_total_area": 377
+    }
+}
